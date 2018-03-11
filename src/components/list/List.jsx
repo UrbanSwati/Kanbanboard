@@ -6,7 +6,7 @@ class List extends Component {
             return <Card id={card.id}
                         title={card.title}
                         description={card.description}
-                        task={card.task} />
+                        tasks={card.tasks} />
         })
         return (
             <div className="list">
