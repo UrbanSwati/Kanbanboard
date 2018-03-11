@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Kanbanboard from './components/kanbanboard/Kanbanboard';
+import './App.css';
 
 let cardsList = [ {
   id: 1,
