@@ -1,6 +1,9 @@
 {
   "name": "kanbanboard",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "William Maphanga"
+  },
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
