@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import Card from './../card/Card';
+import Kanbanboard from '../kanbanboard/Kanbanboard';
+import PropTypes from 'prop-types';
 class List extends Component {
   render() {
-    var cards = this.props.cards.map(card => {
+    let cards = this.props.cards.map(card => {
       return (
         <Card
           id={card.id}
@@ -23,4 +25,8 @@ class List extends Component {
   }
 }
 
+List.propTypes = {
+  title: PropTypes.string,
+  cards: PropTypes.arrayOf(PropTypes.object),
+};
 export default List;
