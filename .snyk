@@ -42,6 +42,36 @@ patch:
         patched: '2022-08-24T16:06:42.440Z'
     - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/ruby-semver > lodash:
         patched: '2022-08-24T16:06:42.440Z'
+    - react-scripts > @babel/core > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > eslint > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > eslint-plugin-flowtype > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > eslint-plugin-import > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > html-webpack-plugin > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > webpack-manifest-plugin > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > @babel/core > @babel/traverse > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > eslint > inquirer > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > eslint > table > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > optimize-css-assets-webpack-plugin > last-call-webpack-plugin > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > webpack-dev-server > http-proxy-middleware > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > babel-preset-react-app > @babel/plugin-transform-classes > @babel/helper-define-map > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-transform-modules-amd > @babel/helper-module-transforms > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
+    - react-scripts > jest-environment-jsdom-fourteen > jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2022-10-07T21:55:05.507Z'
   SNYK-JS-TREEKILL-536781:
     - snyk > snyk-sbt-plugin > tree-kill:
         patched: '2022-08-24T16:06:42.440Z'
